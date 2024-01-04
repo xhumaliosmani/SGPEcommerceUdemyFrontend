@@ -1,4 +1,4 @@
-export const baseURL = "http://localhost:5000";
+export const baseURL = "https://sgp-ecommerce-udemy-backend.vercel.app";
 
 export const config = {
     headers: {
